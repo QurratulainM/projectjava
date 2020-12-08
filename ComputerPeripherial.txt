@@ -1,0 +1,7 @@
+Name: Qurratulain Riyaz Munshi
+Roll no: 1991229
+Topic: Computer Peripherial Management
+
+To run this project, Open this Project on netbeans. You need to start MySQL and Apache on XAMPP. 
+Import the .sql file in the phpMyAdmin. 
+Press f6 to run the project on netbeans.     
